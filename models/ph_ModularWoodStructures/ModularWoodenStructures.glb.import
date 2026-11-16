@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://rj5e4kckt5fe"
-path="res://.godot/imported/ModularWoodenStructures.glb-e9fcc1ca85780b8814a1761ee1985284.scn"
+path="res://.godot/imported/ModularWoodenStructures.glb-bafcac8dd2f1e5efcd87e2d719616b08.scn"
 
 [deps]
 
-source_file="res://assets/map/ModularWoodStructures/glb/ModularWoodenStructures.glb"
-dest_files=["res://.godot/imported/ModularWoodenStructures.glb-e9fcc1ca85780b8814a1761ee1985284.scn"]
+source_file="res://models/ph_ModularWoodStructures/ModularWoodenStructures.glb"
+dest_files=["res://.godot/imported/ModularWoodenStructures.glb-bafcac8dd2f1e5efcd87e2d719616b08.scn"]
 
 [params]
 

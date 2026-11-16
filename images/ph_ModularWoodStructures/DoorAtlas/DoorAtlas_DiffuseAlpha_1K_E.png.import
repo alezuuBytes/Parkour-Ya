@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://634dl5wbxe1e"
-path.s3tc="res://.godot/imported/DoorAtlas_DiffuseAlpha_1K_E.png-4370e2ca1913a8d60ffd0875177f9d38.s3tc.ctex"
+path.s3tc="res://.godot/imported/DoorAtlas_DiffuseAlpha_1K_E.png-a8221f75d2bee26be2f5495c483cbbae.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/map/ModularWoodStructures/textures/DoorAtlas/DoorAtlas_DiffuseAlpha_1K_E.png"
-dest_files=["res://.godot/imported/DoorAtlas_DiffuseAlpha_1K_E.png-4370e2ca1913a8d60ffd0875177f9d38.s3tc.ctex"]
+source_file="res://images/ph_ModularWoodStructures/DoorAtlas/DoorAtlas_DiffuseAlpha_1K_E.png"
+dest_files=["res://.godot/imported/DoorAtlas_DiffuseAlpha_1K_E.png-a8221f75d2bee26be2f5495c483cbbae.s3tc.ctex"]
 
 [params]
 

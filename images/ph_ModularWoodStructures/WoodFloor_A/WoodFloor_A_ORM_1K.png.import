@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bseh70d5d4bkq"
-path.s3tc="res://.godot/imported/WoodFloor_A_ORM_1K.png-f07b3997d3e6c8735fcd3a1604ff6a03.s3tc.ctex"
+path.s3tc="res://.godot/imported/WoodFloor_A_ORM_1K.png-e2c0f9335e62752a814e2812c2d801a9.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/map/ModularWoodStructures/textures/WoodFloor_A/WoodFloor_A_ORM_1K.png"
-dest_files=["res://.godot/imported/WoodFloor_A_ORM_1K.png-f07b3997d3e6c8735fcd3a1604ff6a03.s3tc.ctex"]
+source_file="res://images/ph_ModularWoodStructures/WoodFloor_A/WoodFloor_A_ORM_1K.png"
+dest_files=["res://.godot/imported/WoodFloor_A_ORM_1K.png-e2c0f9335e62752a814e2812c2d801a9.s3tc.ctex"]
 
 [params]
 

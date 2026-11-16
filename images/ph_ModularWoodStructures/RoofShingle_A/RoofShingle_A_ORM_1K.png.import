@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0uln2cd8gffp"
-path.s3tc="res://.godot/imported/RoofShingle_A_ORM_1K.png-eda8ba458b83d13087a977356398c249.s3tc.ctex"
+path.s3tc="res://.godot/imported/RoofShingle_A_ORM_1K.png-c0fa937635898512d1fadaa9a527a6df.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/map/ModularWoodStructures/textures/RoofShingle_A/RoofShingle_A_ORM_1K.png"
-dest_files=["res://.godot/imported/RoofShingle_A_ORM_1K.png-eda8ba458b83d13087a977356398c249.s3tc.ctex"]
+source_file="res://images/ph_ModularWoodStructures/RoofShingle_A/RoofShingle_A_ORM_1K.png"
+dest_files=["res://.godot/imported/RoofShingle_A_ORM_1K.png-c0fa937635898512d1fadaa9a527a6df.s3tc.ctex"]
 
 [params]
 

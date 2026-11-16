@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7w0b70cxeofq"
-path.bptc="res://.godot/imported/kloofendal_48d_partly_cloudy_puresky_2k.exr-deba7b9e427102b6660022badf350e1f.bptc.ctex"
+path.bptc="res://.godot/imported/kloofendal_48d_partly_cloudy_puresky_2k.exr-e272327aa63b0bf28c85b5c337e0d42d.bptc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/map/ModularWoodStructures/textures/HDRI/kloofendal_48d_partly_cloudy_puresky_2k.exr"
-dest_files=["res://.godot/imported/kloofendal_48d_partly_cloudy_puresky_2k.exr-deba7b9e427102b6660022badf350e1f.bptc.ctex"]
+source_file="res://images/ph_ModularWoodStructures/HDRI/kloofendal_48d_partly_cloudy_puresky_2k.exr"
+dest_files=["res://.godot/imported/kloofendal_48d_partly_cloudy_puresky_2k.exr-e272327aa63b0bf28c85b5c337e0d42d.bptc.ctex"]
 
 [params]
 

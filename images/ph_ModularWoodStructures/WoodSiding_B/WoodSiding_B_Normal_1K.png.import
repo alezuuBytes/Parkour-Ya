@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b70tb5uodg4g8"
-path.s3tc="res://.godot/imported/WoodSiding_B_Normal_1K.png-b582f4d6f54239e972c8ec5baf72cea7.s3tc.ctex"
+path.s3tc="res://.godot/imported/WoodSiding_B_Normal_1K.png-839a28f68372f7d1a0b46081bdeee112.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/map/ModularWoodStructures/textures/WoodSiding_B/WoodSiding_B_Normal_1K.png"
-dest_files=["res://.godot/imported/WoodSiding_B_Normal_1K.png-b582f4d6f54239e972c8ec5baf72cea7.s3tc.ctex"]
+source_file="res://images/ph_ModularWoodStructures/WoodSiding_B/WoodSiding_B_Normal_1K.png"
+dest_files=["res://.godot/imported/WoodSiding_B_Normal_1K.png-839a28f68372f7d1a0b46081bdeee112.s3tc.ctex"]
 
 [params]
 
